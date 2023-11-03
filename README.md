@@ -1,5 +1,7 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+
 <a name="readme-top"></a>
+
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -7,8 +9,6 @@
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
-
-
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -18,14 +18,13 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -37,7 +36,6 @@
 <h3 align="center">HW05-Third-Party-APIs-Work-Day-Scheduler</h3>
 
   <p align="center">
-    Create a simple calendar application that allows a user to save events for each hour of a typical working day (9am–5pm) by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
     <br />
     <a href="https://github.com/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler"><strong>Explore the docs »</strong></a>
     <br />
@@ -49,8 +47,6 @@
     <a href="https://github.com/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -78,21 +74,21 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## Description
+
 <!-- Enter Decription Below -->
 
 This is a simple calendar application that allows a user to save events for each hour of a typical working day (9am–5pm). This was done on my end by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 [![HW05-Third-Party-APIs-Work-Day-Scheduler Deployed Link][product-screenshot]](https://gmeyer24.github.io/HW05-Third-Party-APIs-Work-Day-Scheduler)
 
+![Alt text](images/screencapture-127-0-0-1-5500-index-html-2023-11-03-12_13_49.png)
+
 <!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `gmeyer24`, `HW05-Third-Party-APIs-Work-Day-Scheduler`, `gavinpmeyer`, `gmail`, `gpmeyer24`, `HW05-Third-Party-APIs-Work-Day-Scheduler`, `project_description` -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -102,13 +98,12 @@ This is a simple calendar application that allows a user to save events for each
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url] -->
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-* [![JavaScript][JavaScript.com]][JavaScript-url]
+
+- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+- [![JQuery][JQuery.com]][JQuery-url]
+- [![JavaScript][JavaScript.com]][JavaScript-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 <!-- ## Getting Started
@@ -142,18 +137,19 @@ This is an example of how to list things you need to use the software and how to
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
-
-
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+- Below is an image of how to update your schedule. As you can see, just add text to the time block where you want to add to your schedule. Once your event has been typed out, select the save icon on the right side. This will save your calendar, so even if the page is refreshed, your calendar will not clear.
+- Please reference the color code as well:
+  - Gray = Past Time Block
+  - Red = Current Time Block
+  - Green = Future Time Block
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+![Alt text](images/image.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ROADMAP -->
 <!-- ## Roadmap
@@ -168,8 +164,8 @@ See the [open issues](https://github.com/gmeyer24/HW05-Third-Party-APIs-Work-Day
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  -->
 
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -185,18 +181,16 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 LICENSE
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Gavin Meyer - gpmeyer24@gmail.com - GitHub: gmeyer24
@@ -207,24 +201,22 @@ Deployed Link: [https://gmeyer24.github.io/HW05-Third-Party-APIs-Work-Day-Schedu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-* [Vincent Teune's README Example](https://github.com/cobalt88/CPS-API)
-* [Othneil Drew's README Example](https://github.com/othneildrew/Best-README-Template#best-readme-template)
-* [Make a README](https://www.makeareadme.com/)
-* [W3Schools](https://www.w3schools.com/)
-* Stephanie Smith - Tutor
+- [Vincent Teune's README Example](https://github.com/cobalt88/CPS-API)
+- [Othneil Drew's README Example](https://github.com/othneildrew/Best-README-Template#best-readme-template)
+- [Make a README](https://www.makeareadme.com/)
+- [W3Schools](https://www.w3schools.com/)
+- Stephanie Smith - Tutor
 <!-- * []() -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler.svg?style=for-the-badge
 [contributors-url]: https://github.com/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler.svg?style=for-the-badge
@@ -253,8 +245,6 @@ Deployed Link: [https://gmeyer24.github.io/HW05-Third-Party-APIs-Work-Day-Schedu
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com
 [JavaScript.com]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [JavaScript-url]: https://www.javascript.com/
-
-
