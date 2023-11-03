@@ -30,23 +30,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <!-- <a href="https://github.com/github_username/repo_name">
+  <!-- <a href="https://github.com/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-<h3 align="center">project_title</h3>
+<h3 align="center">HW05-Third-Party-APIs-Work-Day-Scheduler</h3>
 
   <p align="center">
     Create a simple calendar application that allows a user to save events for each hour of a typical working day (9am–5pm) by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/gmeyer24/repo_name">View Demo</a>
+    <a href="https://github.com/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler/issues">Report Bug</a>
     ·
-    <a href="https://github.com/gmeyer24/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler/issues">Request Feature</a>
   </p>
 </div>
 
@@ -86,9 +86,9 @@
 
 This is a simple calendar application that allows a user to save events for each hour of a typical working day (9am–5pm). This was done on my end by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-[![Product Name Deployed Link][product-screenshot]](https://example.com)
+[![HW05-Third-Party-APIs-Work-Day-Scheduler Deployed Link][product-screenshot]](https://gmeyer24.github.io/HW05-Third-Party-APIs-Work-Day-Scheduler)
 
-<!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `gmeyer24`, `repo_name`, `gavinpmeyer`, `gmail`, `gpmeyer24`, `project_title`, `project_description` -->
+<!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `gmeyer24`, `HW05-Third-Party-APIs-Work-Day-Scheduler`, `gavinpmeyer`, `gmail`, `gpmeyer24`, `HW05-Third-Party-APIs-Work-Day-Scheduler`, `project_description` -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,7 +129,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/gmeyer24/repo_name.git
+   git clone https://github.com/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler.git
    ```
 3. Install NPM packages
    ```sh
@@ -163,7 +163,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  -->
@@ -201,9 +201,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Gavin Meyer - gpmeyer24@gmail.com - GitHub: gmeyer24
 
-Project Link: [https://github.com/gmeyer24/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler](https://github.com/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler)
 
-Deployed Link: [https://gmeyer24.github.io/repo_name](https://gmeyer24.github.io/repo_name)
+Deployed Link: [https://gmeyer24.github.io/HW05-Third-Party-APIs-Work-Day-Scheduler](https://gmeyer24.github.io/HW05-Third-Party-APIs-Work-Day-Scheduler)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,16 +225,16 @@ Deployed Link: [https://gmeyer24.github.io/repo_name](https://gmeyer24.github.io
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/gmeyer24/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/gmeyer24/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/gmeyer24/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/gmeyer24/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/gmeyer24/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler.svg?style=for-the-badge
+[contributors-url]: https://github.com/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler.svg?style=for-the-badge
+[forks-url]: https://github.com/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler/network/members
+[stars-shield]: https://img.shields.io/github/stars/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler.svg?style=for-the-badge
+[stars-url]: https://github.com/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler/stargazers
+[issues-shield]: https://img.shields.io/github/issues/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler.svg?style=for-the-badge
+[issues-url]: https://github.com/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler/issues
+[license-shield]: https://img.shields.io/github/license/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler.svg?style=for-the-badge
+[license-url]: https://github.com/gmeyer24/HW05-Third-Party-APIs-Work-Day-Scheduler/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/gavinpmeyer
 [product-screenshot]: images/screenshot.png
